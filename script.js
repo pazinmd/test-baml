@@ -1,10 +1,10 @@
 const quizData = [
     {
-        question: "Which language runs in a web browser?",
-        a: "Java",
-        b: "C",
-        c: "Python",
-        d: "javascript",
+        question: "Что такое BAML",
+        a: "Я не знаю, звоню на лп",
+        b: "Ограничение дистанционного банковского обслуживания",
+        c: "Блокировка счета и закрытие договора",
+        d: "Я это не обрабатываю, переключаю на профильных специалистов",
         correct: "d",
     },
     {
